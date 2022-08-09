@@ -4,3 +4,5 @@
 https://live-cm-ah-10-38.video.globo.com/h/0401660145227236727720516600588271458830176mCRS6E3iBi90Eae5GxEDNw/k/html5/a/F/u/6d38174d-a56f-4a77-ae1d-2e6489f7b4b9/nu/globo-rj/globo-rj-audio_1=96000-video=2262976.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Band_RJ" tvg-logo="https://www.rs.maisperto.com.br/images/tv/tv_bandrs_canal_porto_alegre_on_line_maisperto_rs.jpg" group-title="Tv Aberta",Band RJ
 https://stream-04.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2hPNrPcO6-f3n2fu213P-dmnPKCmV11VyW8jHqr4-I5F)/dm/3/x80o7x4/d/live-2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tv Cultura" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2020/05/TV-Cultura-logo-e1603864549316.jpg" group-title="Tv Aberta",Tv Cultura
+https://stream-04.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2hPNrPcO6-f3n2fu213P-dmnPKCmV11VyW8jHqr4-I5F)/dm/3/x80o7x4/d/live-2.m3u8
