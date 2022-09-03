@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="Globo_RJ" tvg-logo="https://pbs.twimg.com/profile_images/565718079980969986/gwDjvnAA_400x400.jpeg" group-title="Tv Aberta",Globo RJ
-https://live-cm-al-13-38.video.globo.com/h/0401662269832164843698816621834321318958299W_kRwf2ryr653I9hTDvq5Q/k/html5/a/F/u/6d38174d-a56f-4a77-ae1d-2e6489f7b4b9/nu/f(dvr=180,i=2)/globo-rj/playlist.m3u8
+https://live-cm-al-14-36.video.globo.com/h/0401662328985571116154116622425858545780230wdborRVg0PaNnEYJDYU3OA/k/html5/a/F/u/6d38174d-a56f-4a77-ae1d-2e6489f7b4b9/nu/f(dvr=180,i=2)/globo-rj/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tv Cultura" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2020/05/TV-Cultura-logo-e1603864549316.jpg" group-title="Tv Aberta",Tv Cultura
 https://www.dailymotion.com/cdn/live/video/x7wur7g.m3u8?sec=ni85bJvxdg_Y2OoYim0Mm1bBOBk_fRcB2C7UtmzaU4u2OTu0M-OLlHL7cXHIib1c9_bd5_5AhrlJtRqtslFqTA&dmTs=325492&dmV1st=59C678CE42AF6CCF61B920A24A38CA51
 #EXTINF:-1 tvg-id="" tvg-name="Record" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Novo-rederecord.png/revision/latest?cb=20120227024620" group-title="Tv Aberta",Record
