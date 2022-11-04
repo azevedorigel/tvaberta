@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="Globo_RJ" tvg-logo="https://pbs.twimg.com/profile_images/565718079980969986/gwDjvnAA_400x400.jpeg" group-title="Tv Aberta",Globo RJ
-https://live-cm-ah-15-15.video.globo.com/h/04016675940331211862099166750763316793991647PUIVV0_07s75AVTVKh5AQ/k/html5/a/F/u/6d38174d-a56f-4a77-ae1d-2e6489f7b4b9/nu/f(dvr=180,i=2)/globo-rj/playlist.m3u8
+https://live-cm-ah-11-03.video.globo.com/h/0401667676375671527209416675899752037906948vk7Qf1lG4uJwz8RiL7RCTA/k/html5/a/F/u/6d38174d-a56f-4a77-ae1d-2e6489f7b4b9/nu/f(dvr=180,i=2)/globo-rj/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Band TV" tvg-logo="https://w7.pngwing.com/pngs/1008/95/png-transparent-tv-bandeirantes-campinas-logo-tv-bandeirantes-rio-de-janeiro-band-logo-band-brand.png" group-title="Tv Aberta",Band
 https://m3u9.ml/a2/hls1/band.m3u8?mu3zAQc9HC3GbwJq=EYXVeyiAyu1C54yaB9RIIg&3U1G7qaTxrPbalZnEx=1665277964
 #EXTINF:-1 tvg-id="" tvg-name="Tv Cultura" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2020/05/TV-Cultura-logo-e1603864549316.jpg" group-title="Tv Aberta",Tv Cultura
